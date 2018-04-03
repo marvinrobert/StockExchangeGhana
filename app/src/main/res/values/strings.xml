@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stock Exchange Gh</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+</resources>

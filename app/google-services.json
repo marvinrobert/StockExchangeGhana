@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "119974219600",
+    "firebase_url": "https://stockexchangegh.firebaseio.com",
+    "project_id": "stockexchangegh",
+    "storage_bucket": "stockexchangegh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119974219600:android:12b4a47fb80439f5",
+        "android_client_info": {
+          "package_name": "marvinrobert.stockexchangegh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119974219600-4pfvfakc271s7qdojab5r6chrcqj0co4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marvinrobert.stockexchangegh",
+            "certificate_hash": "d5eb35c1193407b53031073255b741d92c454dd3"
+          }
+        },
+        {
+          "client_id": "119974219600-c305u8nvmig905upqfstsdtiu5ltbhqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8witHSuCutFsIMBUv20iSt0XFdNhlhVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119974219600-c305u8nvmig905upqfstsdtiu5ltbhqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
